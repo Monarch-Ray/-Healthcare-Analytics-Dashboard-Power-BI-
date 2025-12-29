@@ -122,10 +122,10 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 ## 📊 Dashboards & Visuals
 
-<img width="912" height="505" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/5b8811fb-47f1-4c7c-a5de-60fc042a934b" />
-<img width="910" height="506" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/3e39b191-3602-4db9-9392-892d11ba9e6d" />
-<img width="913" height="505" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/e00dea31-d613-4894-ab14-0dc57c3f8f91" />
-<img width="912" height="503" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/002d7287-0532-4311-8969-f557c3c546bf" />
+<img width="912" height="504" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/a77df052-49ba-4632-b42c-fa56044bb98e" />
+<img width="910" height="506" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/14a9688b-608a-411a-b6e0-c711f9b0c140" />
+<img width="913" height="502" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8e290a8a-14e1-42dd-9aa9-15ebe66f06ab" />
+<img width="914" height="503" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/ba56d22d-8aae-43be-91e9-de792477386a" />
 
 
 
