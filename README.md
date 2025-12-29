@@ -94,6 +94,11 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 - Unique Patients
 
 - Total Encounters
+- Total Male Patients
+- Total Female Patients
+- Average BMI
+- Female Diagnosis %
+- Male Diagnosis %
 
 - Inventory KPIs
 
@@ -107,7 +112,7 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 - Total Lab Tests
 
-- Abnormal Lab Results
+- Average Systolic BP
 
 - Average Heart Rate
 
