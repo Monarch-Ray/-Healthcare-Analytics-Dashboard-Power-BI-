@@ -93,7 +93,7 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 - Unique Patients
 
-- Appointments per Provider
+- Total Encounters
 
 - Inventory KPIs
 
@@ -117,9 +117,11 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 ## 📊 Dashboards & Visuals
 
-<img width="929" height="495" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/c8c3bc86-2e15-4a16-a427-7d20760fec54" />
-<img width="928" height="500" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/4424e633-e369-4f8e-bee1-7900e8c46dda" />
-<img width="929" height="507" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/3539e9c6-909f-4fc6-9716-9e257234184d" />
+<img width="912" height="505" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/5b8811fb-47f1-4c7c-a5de-60fc042a934b" />
+<img width="910" height="506" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/3e39b191-3602-4db9-9392-892d11ba9e6d" />
+<img width="913" height="505" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/e00dea31-d613-4894-ab14-0dc57c3f8f91" />
+<img width="912" height="503" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/002d7287-0532-4311-8969-f557c3c546bf" />
+
 
 
 ## 🧠 Key Learnings
