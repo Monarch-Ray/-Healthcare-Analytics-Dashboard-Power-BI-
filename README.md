@@ -56,9 +56,7 @@ The project uses a Star Schema for performance and clarity.
 
 - Procedures
 
-- Medications
-
-- Imaging
+- Satisfaction
 
 All relationships are:
 
@@ -91,7 +89,7 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 - Total Encounters
 
-- Unique Patients
+- Total Patients
 
 - Total Encounters
 - Total Male Patients
@@ -99,6 +97,9 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 - Average BMI
 - Female Diagnosis %
 - Male Diagnosis %
+- Average Rating
+- Average Staff Rating
+- Average Environment Rating
 
 - Inventory KPIs
 
@@ -114,7 +115,7 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 - Average Systolic BP
 
-- Average Heart Rate
+- Total Patients Discharged Home
 
 - Total Diagnoses
 
@@ -122,10 +123,12 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 ## 📊 Dashboards & Visuals
 
-<img width="912" height="504" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/a77df052-49ba-4632-b42c-fa56044bb98e" />
-<img width="910" height="506" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/14a9688b-608a-411a-b6e0-c711f9b0c140" />
-<img width="913" height="502" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8e290a8a-14e1-42dd-9aa9-15ebe66f06ab" />
-<img width="914" height="503" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/ba56d22d-8aae-43be-91e9-de792477386a" />
+<img width="912" height="505" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/2d2f6ad3-5911-4318-bee7-90e4a8837343" />
+<img width="912" height="505" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/ef467603-bbf9-4efc-a773-37f1012cefea" />
+<img width="912" height="505" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/a3c1f22d-02bb-4d13-8c39-4863f4986aed" />
+<img width="913" height="504" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/b3e1e84d-bc77-45b8-afc5-00b8fac86dec" />
+<img width="914" height="503" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/246b6669-d5f2-45c0-b0d7-e413f7eb6de4" />
+
 
 
 
