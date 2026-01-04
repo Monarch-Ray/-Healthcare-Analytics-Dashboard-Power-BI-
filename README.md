@@ -111,23 +111,21 @@ All inventory risk logic is calculated dynamically using DAX, not Power Query co
 
 # Clinical KPIs
 
-- Total Lab Tests
+- Average length of stay
 
-- Average Systolic BP
+- Average overall rating
 
-- Total Patients Discharged Home
+- Appointment completion rate
 
-- Total Diagnoses
+- Total patients
+- Total Appointments
 
-- Total Procedures
+
 
 ## 📊 Dashboards & Visuals
+<img width="985" height="547" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/3a2cc3fe-b008-425e-ab36-d589a51cbc48" />
 
-<img width="912" height="505" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/2d2f6ad3-5911-4318-bee7-90e4a8837343" />
-<img width="912" height="505" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/ef467603-bbf9-4efc-a773-37f1012cefea" />
-<img width="912" height="505" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/a3c1f22d-02bb-4d13-8c39-4863f4986aed" />
-<img width="913" height="504" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/b3e1e84d-bc77-45b8-afc5-00b8fac86dec" />
-<img width="914" height="503" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/246b6669-d5f2-45c0-b0d7-e413f7eb6de4" />
+
 
 
 
